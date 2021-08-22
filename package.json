@@ -1,0 +1,25 @@
+{
+  "name": "simple-github-pages-deploy",
+  "version": "0.1.0",
+  "description": "Simple CLI tool to deploy to github pages",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaimeloeuf/simple-github-pages-deploy.git"
+  },
+  "keywords": [
+    "github",
+    "pages",
+    "deploy",
+    "CLI"
+  ],
+  "author": "JJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaimeloeuf/simple-github-pages-deploy/issues"
+  },
+  "homepage": "https://github.com/Jaimeloeuf/simple-github-pages-deploy#readme"
+}
