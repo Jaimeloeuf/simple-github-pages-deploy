@@ -1,6 +1,6 @@
 {
   "name": "simple-github-pages-deploy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple CLI tool to deploy to github pages",
   "main": "main.js",
   "scripts": {
