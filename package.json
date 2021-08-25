@@ -1,8 +1,9 @@
 {
   "name": "simple-github-pages-deploy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Simple CLI tool to deploy to github pages",
-  "main": "main.js",
+  "main": "./bin/index.js",
+  "bin": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

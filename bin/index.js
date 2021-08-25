@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // Function to deploy using data from options object
 // Where, Options: { dir: String, message: String }
 function deploy(options) {

@@ -1,6 +1,7 @@
 # simple-github-pages-deploy
-Simple CLI tool to deploy to github pages
+Simple CLI tool to deploy to github pages.
 
+Code is directly placed in /bin to make npm CLI create the CLI commands within /node_modules when installing this without having to go through an additonal build/release step of copying the file over.
 
 ## Usage
 ### CLI Options
